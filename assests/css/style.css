@@ -1,0 +1,75 @@
+/* style.css */
+
+/* Navbar styles */
+.navbar {
+    background-color: #f8f9fa;
+}
+
+.navbar-brand img {
+    width: 100px;
+    height: 70px;
+}
+
+.navbar-toggler {
+    background-color: #ffffff;
+}
+
+.nav-link {
+    font-size: 25px;
+}
+
+/* Login button style */
+.btn-outline-success {
+    background-color: #28a745;
+    color: #ffffff;
+}
+
+/* Carousel styles */
+.carousel {
+    margin-top: 20px;
+}
+
+.carousel-inner img {
+    width: 100%;
+    height: auto;
+}
+
+/* Main content styles */
+.container-fluid {
+    background-color: white;
+    text-align: center;
+}
+
+h1 {
+    font-size: 36px;
+}
+
+/* Card styles */
+.card {
+    width: 20rem;
+}
+
+.card-title {
+    font-size: 20px;
+}
+
+.btn-primary {
+    background-color: #007bff;
+    color: #ffffff;
+}
+
+/* Results and Announcements styles */
+input[type="text"] {
+    width: 100%;
+    padding: 10px;
+    margin: 6px 0;
+}
+
+/* Footer styles */
+h5 {
+    color: azure;
+    font-size: 18px;
+}
+.container-fluid.h1{
+    background-color: #B5B7BB;
+}
